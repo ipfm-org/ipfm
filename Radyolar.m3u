@@ -2391,8 +2391,6 @@ https://icecast.netmedya.net/radyos
 http://95.173.188.166:9782/;
 #EXTINF:-1,BURSA RADYO TURK
 https://radyo.yayindakiler.com/stream/bursaturk/stream
-#EXTINF:-1,BURSA SUPERBI RADYO
-http://live.arkumedia.com:8004/stream
 #EXTINF:-1,BURSA ULUDAG FM
 https://icecast.netmedya.net/uludagfm
 #EXTINF:-1,BURSA ULUDAG FM
@@ -3267,8 +3265,6 @@ http://fm-66.canliyayinda.com:9020/;
 http://shoutcast.shemamedia.com:9030/olayfm
 #EXTINF:-1,ONUR RADYO
 https://anadolu.liderhost.com.tr/8094/stream
-#EXTINF:-1,OLTU SUPER RADYO
-http://yayin.netyayin.net:2534/;
 #EXTINF:-1,ORDU FM
 http://159.253.37.137:9926/stream
 #EXTINF:-1,ORDU FM
@@ -4175,6 +4171,8 @@ https://ssl4.radyotvonline.com/radyohome/showradyohome.stream_aac/playlist.m3u8
 http://95.173.188.154:9910/;
 #EXTINF:-1,SINOP GOZDE FM
 http://yayin1.yayindakiler.com:3096/;
+#EXTINF:-1,Süper Fm 
+https://radyo.medyahost.com.tr/8034/stream
 #EXTINF:-1,SIVAS FM
 http://yayin2.canliyayin.org:8180/;
 #EXTINF:-1,SIVAS FM
@@ -4219,10 +4217,6 @@ http://yayin.morkarinca.com:8282/;
 https://tr.socialsmart.tv/sunradyo/bant1/icecast.audio
 #EXTINF:-1,SUNN FM
 https://anadolu.liderhost.com.tr:10881/;
-#EXTINF:-1,SUPER FM
-https://17733.live.streamtheworld.com/SUPER_FM.mp3
-#EXTINF:-1,SUPER FM 2
-https://17703.live.streamtheworld.com/SUPER2.mp3
 #EXTINF:-1,SAFAK RADYO Gaziantep
 http://yayin2.canliyayin.org:7070/;
 #EXTINF:-1,SAFAK RADYO ILAHI
